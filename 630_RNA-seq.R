@@ -218,5 +218,3 @@ comb.anno <- function(x){
 }
 
 Cd630 <- comb.anno(x)
-
-load("~/Box/PhD_papers/Ornithine/Final_submission_files/Source_Data/630_RNA-seq.RData")
